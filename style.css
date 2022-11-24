@@ -45,7 +45,7 @@ hr {
   justify-content: space-between;
 }
 .header {
-  background-image: url(./IMG/Fondo1.jpg);
+  background-image: url(./Fondo1.jpg);
   background-size:cover;
   height: 50%;
   width: 100%;
@@ -93,7 +93,7 @@ hr {
   color: var(--red-color);
 }
 .seccion-imagen {
-  background-image: url(./IMG/Fondo2.jpg);
+  background-image: url(./Fondo2.jpg);
   background-size: cover;
   color: var(--white-color);
 }
