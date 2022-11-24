@@ -1,0 +1,27 @@
+.container-cuadros {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+.container-bicolor {
+display: flex;
+}
+.container-red, .container-beige {
+  width: 50%;
+}
+.cuadro {
+  display: flex;
+  width: 50%;
+  height: 50vh;
+}
+.icono-cuadro {
+  width: 40%;
+}
+.container-txt {
+  width: 70%;
+  padding-left: 2vh;
+}
+.icono-cuadro img {
+  width: 100%;
+  height: 57%;
+}
